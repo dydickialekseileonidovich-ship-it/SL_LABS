@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "population": 37859698,
+    "area": 447400.0,
+    "flag_png": "https://flagcdn.com/w320/uz.png",
+    "density": 84.62158694680376
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": 85664944,
+    "area": 783562.0,
+    "flag_png": "https://flagcdn.com/w320/tr.png",
+    "density": 109.32758862731986
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran",
+    "population": 85961000,
+    "area": 1648195.0,
+    "flag_png": "https://flagcdn.com/w320/ir.png",
+    "density": 52.15462976164835
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1408280000,
+    "area": 9706961.0,
+    "flag_png": "https://flagcdn.com/w320/cn.png",
+    "density": 145.07939199508476
+  },
+  {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "population": 51159889,
+    "area": 100210.0,
+    "flag_png": "https://flagcdn.com/w320/kr.png",
+    "density": 510.52678375411637
+  },
+  {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "population": 51316756,
+    "area": 676578.0,
+    "flag_png": "https://flagcdn.com/w320/mm.png",
+    "density": 75.8475090824709
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "population": 32684503,
+    "area": 527968.0,
+    "flag_png": "https://flagcdn.com/w320/ye.png",
+    "density": 61.90621969513304
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "population": 65859640,
+    "area": 513120.0,
+    "flag_png": "https://flagcdn.com/w320/th.png",
+    "density": 128.3513408169629
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1417492000,
+    "area": 3287263.0,
+    "flag_png": "https://flagcdn.com/w320/in.png",
+    "density": 431.2073600439028
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 35300280,
+    "area": 2149690.0,
+    "flag_png": "https://flagcdn.com/w320/sa.png",
+    "density": 16.421102577580953
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 169828911,
+    "area": 147570.0,
+    "flag_png": "https://flagcdn.com/w320/bd.png",
+    "density": 1150.8362878633868
+  },
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "population": 43844000,
+    "area": 652230.0,
+    "flag_png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+    "density": 67.22168560170492
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "population": 101343800,
+    "area": 331212.0,
+    "flag_png": "https://flagcdn.com/w320/vn.png",
+    "density": 305.9786481166141
+  },
+  {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "population": 46118793,
+    "area": 438317.0,
+    "flag_png": "https://flagcdn.com/w320/iq.png",
+    "density": 105.21789709274339
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "population": 284438782,
+    "area": 1904569.0,
+    "flag_png": "https://flagcdn.com/w320/id.png",
+    "density": 149.34548551404544
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "population": 114123600,
+    "area": 342353.0,
+    "flag_png": "https://flagcdn.com/w320/ph.png",
+    "density": 333.3506643727381
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "population": 241499431,
+    "area": 796095.0,
+    "flag_png": "https://flagcdn.com/w320/pk.png",
+    "density": 303.3550405416439
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 123210000,
+    "area": 377930.0,
+    "flag_png": "https://flagcdn.com/w320/jp.png",
+    "density": 326.01275368454475
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "population": 34231700,
+    "area": 330803.0,
+    "flag_png": "https://flagcdn.com/w320/my.png",
+    "density": 103.48062139702482
+  }
+]

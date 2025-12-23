@@ -83,7 +83,7 @@ def generate_urls():
     }
     
     genders = {'мужчины': 'men', 'женщины': 'women'}
-    years = list(range(2001, 2025))
+    years = list(range(2024, 2025))
     urls = []
     
     for year in years:
