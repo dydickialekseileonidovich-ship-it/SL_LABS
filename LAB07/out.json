@@ -1,0 +1,46 @@
+{
+  "total_clients": 5,
+  "filtered_clients_count": 4,
+  "filter_criteria": {
+    "budget_greater_than": 30000,
+    "projects_greater_or_equal": 5
+  },
+  "clients": [
+    {
+      "client_id": "cl001",
+      "first_name": "Alexander",
+      "last_name": "Volkov",
+      "company": "TechSolutions",
+      "budget": 50000,
+      "projects_count": 8,
+      "industry": "IT"
+    },
+    {
+      "client_id": "cl002",
+      "first_name": "Natalia",
+      "last_name": "Orlova",
+      "company": "BusinessGroup",
+      "budget": 75000,
+      "projects_count": 12,
+      "industry": "Consulting"
+    },
+    {
+      "client_id": "cl003",
+      "first_name": "Michael",
+      "last_name": "Lebedev",
+      "company": "InnovationLtd",
+      "budget": 30000,
+      "projects_count": 5,
+      "industry": "Startup"
+    },
+    {
+      "client_id": "cl005",
+      "first_name": "Paul",
+      "last_name": "Novikov",
+      "company": "CorporateSystems",
+      "budget": 100000,
+      "projects_count": 15,
+      "industry": "Enterprise"
+    }
+  ]
+}
